@@ -1,0 +1,4 @@
+hello world
+This is a test file to say Hello.
+Hello, hello, Hello!
+Saying hello again is fun.

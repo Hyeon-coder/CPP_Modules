@@ -117,9 +117,3 @@ When a class has pointer members, the default copy constructor and assignment op
 
 ### 4. Exception Safety
 Designing classes that behave correctly when exceptions are thrown — especially during construction and assignment — requires thinking about resource ownership and cleanup paths that I hadn't considered coming from C.
-
----
-
-## License
-
-This project was developed as part of the 42 curriculum at Hive Helsinki.
